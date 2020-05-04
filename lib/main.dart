@@ -5,7 +5,7 @@ void main() {
     MaterialApp(
       home: Scaffold(
         appBar: AppBar(
-          title: Text('Flutter with Actions'),
+          title: Text('Ja sei mudar caracteres'),
         ),
         body: Text('Vamos aprender compilar APK do flutter com o github Actions'),
       )
