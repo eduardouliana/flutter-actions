@@ -19,7 +19,7 @@ class _HomeState extends State<Home> {
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
             Text(
-              "Hello World",
+              " Hello World",
               style:
                   TextStyle(color: Colors.white, fontWeight: FontWeight.bold),
             )
